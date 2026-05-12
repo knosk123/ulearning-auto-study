@@ -1,0 +1,2 @@
+1.自行安装node.js
+2.chrome-win64文件夹复制到c盘根目录

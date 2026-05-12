@@ -1,0 +1,9 @@
+{
+  "name": "ulearning-auto-browser",
+  "version": "2.0.0",
+  "description": "优学院全自动浏览器 — 双击即用",
+  "main": "ulearning-auto.js",
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}
