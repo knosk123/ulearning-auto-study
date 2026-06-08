@@ -13,17 +13,15 @@
 git clone 
 git@github.com:knosk123/ulearning-auto-study.git
 
-### 3. 安装依赖
-npm install
-
-### 4. 运行
+### 3. 运行
 - **Windows**：双击 `start.bat`
 - **Mac/Linux**：运行 `bash start.sh`
 
-### 5. 注意
+### 4. 注意
 需要自行下载chrome，地址为C:\chrome-win64\chrome.exe（以防脚本找不到你的浏览器）
 
-### 6.我用夸克网盘给你分享了「优学院最终版(1).7z」，点击链接或复制整段内容，打开「夸克APP」即可获取。
+### 5.不会克隆仓库的直接网盘下载
+我用夸克网盘给你分享了「优学院最终版(1).7z」，点击链接或复制整段内容，打开「夸克APP」即可获取。
 /~470b3YwNWh~:/
 链接：https://pan.quark.cn/s/9f320eb6e1a9?pwd=S86E
 提取码：S86E
