@@ -10,8 +10,7 @@
 如果没有，去 https://nodejs.org 下载安装。并配置相关环境变量（不会就去问ai）
 
 ### 2. 克隆仓库
-git clone 
-git@github.com:knosk123/ulearning-auto-study.git
+git clone
 
 ### 3. 运行
 - **Windows**：双击 `start.bat`
